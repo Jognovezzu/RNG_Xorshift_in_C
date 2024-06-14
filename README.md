@@ -40,10 +40,4 @@ Os resultados são apresentados para diferentes configurações de geração de 
 - **Teste do Chi-Quadrado**: Avaliação da uniformidade dos números gerados através do teste estatístico do chi-quadrado.
 
 
-### Referências
 
-- Press, W. H., Teukolsky, S. A., Vetterling, W. T., & Flannery, B. P. (2007). Numerical Recipes 3rd Edition: The Art of Scientific Computing. Cambridge University Press.
-
-### Autor
-
-Este projeto foi desenvolvido como parte das atividades da disciplina de Simulação e Análise de Desempenho do curso de graduação em Engenharia de Computação.
